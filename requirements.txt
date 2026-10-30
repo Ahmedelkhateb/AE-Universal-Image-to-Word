@@ -1,0 +1,8 @@
+﻿paddlepaddle==3.3.0
+paddleocr>=3.0,<4
+python-docx>=1.1,<2
+opencv-python>=4.8
+numpy>=1.26,<3
+beautifulsoup4>=4.12
+lxml>=5.0
+Pillow>=10.0
