@@ -112,3 +112,11 @@ The long-term goal is to build a general-purpose tool that can reconstruct docum
 This repository represents an ongoing development project. Features, accuracy, compatibility, and output quality are subject to change.
 
 Not intended for production use at this stage.
+
+## License
+
+The original code in this repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the full license text.
+
+Copyright (c) 2026 Ahmed Elkhateb.
+
+Third-party packages and their components remain subject to their respective licenses. The MIT license in this repository does not replace or relicense those dependencies.
